@@ -10,10 +10,10 @@ import HomeRoundedIcon from '@mui/icons-material/HomeRounded';
 import ChevronRightRoundedIcon from '@mui/icons-material/ChevronRightRounded';
 import DownloadRoundedIcon from '@mui/icons-material/DownloadRounded';
 
-import Sidebar from './components/Sidebar';
-import OrderTable from './components/OrderTable';
-import OrderList from './components/OrderList';
-import Header from './components/Header';
+import Sidebar from './order-dashboard/components/Sidebar';
+import OrderTable from './order-dashboard/components/OrderTable';
+import OrderList from './order-dashboard/components/OrderList';
+import Header from './order-dashboard/components/Header';
 
 export default function JoyOrderDashboardTemplate() {
   return (
