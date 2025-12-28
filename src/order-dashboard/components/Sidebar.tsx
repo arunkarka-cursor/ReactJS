@@ -168,15 +168,14 @@ export default function Sidebar() {
 
           <ListItem>
             <ListItemButton 
-            selected
-            component="a"
-            href="/joy-ui/getting-started/templates/profile-dashboard/">
+              selected
+              component="a"
+              href="/joy-ui/getting-started/templates/profile-dashboard/">
               <ShoppingCartRoundedIcon />
               <ListItemContent>
                 <Typography level="title-sm">Orders</Typography>
               </ListItemContent>
             </ListItemButton>
-            
           </ListItem>
 
           <ListItem nested>
