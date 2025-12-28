@@ -81,7 +81,7 @@ export default function Dashboard() {
             }}
           >
             <Typography level="h2" component="h1">
-              Orders updated
+              Orders Dashboard
             </Typography>
             <Button
               color="primary"
